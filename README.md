@@ -1,7 +1,7 @@
 # Supply / Demand бот для Telegram
 
-**Связь с автором:** [@Perpetual_god](https://t.me/Perpetual_god)  
-**BingX со скидкой 25%:** [зарегистрироваться по ссылке автора](https://bingx.com/ru/partner/maniacdt)
+**Связь с автором:** [telegram](https://t.me/Perpetual_god)  
+**BingX со скидкой 25% на все комиссии (taker 0.0375%):** [ссылка](https://bingx.com/ru/partner/maniacdt)
 
 Бот ищет зоны спроса и предложения на свечах BingX и отправляет сигнал с графиком в Telegram при первом возврате цены к зоне. Сделки он не открывает.
 
